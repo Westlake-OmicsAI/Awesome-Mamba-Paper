@@ -142,10 +142,6 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 (2024-03-12) Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM [Paper](https://arxiv.org/abs/2403.07487) [Code](https://github.com/steve-zeyu-zhang/MotionMamba/)
 
-(2024-03-11) MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology [paper](http://arxiv.org/abs/2403.06800v1)
-
-(2024-03-08) MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models [paper](http://arxiv.org/abs/2403.05160v1)
-
 (2024-03-08) Motion-Guided Dual-Camera Tracker for Low-Cost Skill Evaluation of Gastric Endoscopy [paper](http://arxiv.org/abs/2403.05146v1)
 
 (2024-03-08) VideoMamba: State Space Model for Efficient Video Understanding [Paper](https://arxiv.org/abs/2403.06977) [Code](https://github.com/OpenGVLab/VideoMamba)
@@ -198,7 +194,11 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 (2024-03-11) LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation [paper](http://arxiv.org/abs/2403.05246v2)
 
+(2024-03-11) MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology [paper](http://arxiv.org/abs/2403.06800v1)
+
 (2024-03-10) nnMamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model [paper](http://arxiv.org/abs/2402.03526v2)
+
+(2024-03-08) MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models [paper](http://arxiv.org/abs/2403.05160v1)
 
 (2024-03-09) ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes [paper](http://arxiv.org/abs/2403.05795v1)
 
