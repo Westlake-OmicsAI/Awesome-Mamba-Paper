@@ -40,6 +40,8 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 ## NLP
 
+(2024-04-11) HGRN2: Gated Linear RNNs with State Expansion [paper](http://arxiv.org/abs/2404.07904v1)
+
 (2024-04-09) Does Transformer Interpretability Transfer to RNNs? [paper](http://arxiv.org/abs/2404.05971v1)
 
 (2024-04-04) Locating and Editing Factual Associations in Mamba [paper](http://arxiv.org/abs/2404.03646v1)
@@ -86,6 +88,10 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 
 ## Image
+
+(2024-04-11) FusionMamba: Efficient Image Fusion with State Space Model [paper](http://arxiv.org/abs/2404.07932v1)
+
+(2024-04-11) DGMamba: Domain Generalization via Generalized State Space Model [paper](http://arxiv.org/abs/2404.07794v1)
 
 (2024-04-09) MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection [paper](http://arxiv.org/abs/2404.06564v1)
 
@@ -170,13 +176,15 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 (2024-02-08) Scalable Diffusion Models with State Space Backbone [paper](https://arxiv.org/abs/2402.05608v3)
 
-((2024-02-05) Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining [Paper](https://arxiv.org/abs/2402.03302) [Code](https://github.com/JiarunLiu/Swin-UMamba)
+(2024-02-05) Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining [Paper](https://arxiv.org/abs/2402.03302) [Code](https://github.com/JiarunLiu/Swin-UMamba)
 
 (2024-01-18) VMamba: Visual State Space Model [paper](https://arxiv.org/abs/2401.10166)
 
 (2024-01-17) Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [Paper](https://arxiv.org/abs/2401.09417) [Code](https://github.com/hustvl/Vim)
 
 ## Medical Images
+
+(2024-04-11) ViM-UNet: Vision Mamba for Biomedical Segmentation [paper](http://arxiv.org/abs/2404.07705v1)
 
 (2024-04-07) VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration [paper](http://arxiv.org/abs/2404.05105v1)
 
@@ -225,6 +233,10 @@ If you have come across relevant resources, feel free to open an issue or submit
 
 
 ## Video
+
+(2024-04-11) Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos [paper](http://arxiv.org/abs/2404.07645v1)
+
+(2024-04-09) RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos [paper](http://arxiv.org/abs/2404.06483v1)
 
 (2024-04-01) SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding [paper](http://arxiv.org/abs/2404.01174v1)
 
